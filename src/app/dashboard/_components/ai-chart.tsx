@@ -34,8 +34,6 @@ const AIChart = ({
     },
   ];
 
-  console.log("totalUsage: ", totalUsage);
-
   return (
     <ChartContainer
       config={chartConfig}
